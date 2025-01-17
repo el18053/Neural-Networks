@@ -94,11 +94,6 @@ Each image has five captions generated via Amazon Mechanical Turk.
    - Run all setup cells, including dataset download and library imports.
    - Follow the steps to preprocess data, train the model, and evaluate results.
 
-2. Generate captions:
-   ```bash
-   python generate_captions.py --image_path /path/to/image.jpg
-   ```
-
 3. Participate in the optional competition by submitting predictions to the class Codalab platform.
 
 ## Evaluation
@@ -106,14 +101,6 @@ Each image has five captions generated via Amazon Mechanical Turk.
 - The quality of the generated captions is measured using the **BLEU score**.
 - Various hyperparameters and techniques such as beam search can be tuned for better results.
 
-## Contributing
-
-Contributions are welcome! Please fork this repository, make your changes, and open a pull request. For significant changes, consider opening an issue first to discuss your ideas.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For questions or feedback, please contact the course instructors or use the discussion forum available on the course platform.
