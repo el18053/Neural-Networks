@@ -88,19 +88,6 @@ Each image has five captions generated via Amazon Mechanical Turk.
    test_captions = [(str(path / IMAGE_DIR / fname), cap_dict[fname]) for fname in test_files]
    ```
 
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
-   ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Download the dataset as described in the **Dataset** section.
-
 ## Usage
 
 1. Open the provided Jupyter notebook in Google Colab:
