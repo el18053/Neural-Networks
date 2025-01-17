@@ -93,9 +93,7 @@ Each image has five captions generated via Amazon Mechanical Turk.
 1. Open the provided Jupyter notebook in Google Colab:
    - Run all setup cells, including dataset download and library imports.
    - Follow the steps to preprocess data, train the model, and evaluate results.
-
-3. Participate in the optional competition by submitting predictions to the class Codalab platform.
-
+   
 ## Evaluation
 
 - The quality of the generated captions is measured using the **BLEU score**.
