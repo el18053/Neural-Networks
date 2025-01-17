@@ -2,7 +2,7 @@
 
 ## Description
 
-This project explores the application of deep learning techniques in **Image Captioning**, a task that combines Computer Vision and Natural Language Processing to generate textual descriptions from images. The work builds upon TensorFlow's tutorial ["Image captioning with visual attention"](https://www.tensorflow.org/text/tutorials/image_captioning) and extends it by utilizing a custom dataset and implementing various improvements.
+This project explores the application of deep learning techniques in **Image Captioning**, a task that combines Computer Vision and Natural Language Processing to generate textual descriptions from images. The work builds upon TensorFlow's tutorial "Image captioning with visual attention" url(https://www.tensorflow.org/text/tutorials/image_captioning) and extends it by utilizing a custom dataset and implementing various improvements.
 
 ## Features
 
